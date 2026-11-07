@@ -1,0 +1,17 @@
+[project]
+name = "spotify-cli"
+version = "0.1.0"
+description = "CLI que permite acceder a servicios de Spotify"
+
+dependencies = ["typer"]
+
+[project.scripts]
+spotcli = "spotcli.main:main"
+
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

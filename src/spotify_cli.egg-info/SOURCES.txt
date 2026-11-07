@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/spotcli/__init__.py
+src/spotcli/main.py
+src/spotify_cli.egg-info/PKG-INFO
+src/spotify_cli.egg-info/SOURCES.txt
+src/spotify_cli.egg-info/dependency_links.txt
+src/spotify_cli.egg-info/entry_points.txt
+src/spotify_cli.egg-info/requires.txt
+src/spotify_cli.egg-info/top_level.txt

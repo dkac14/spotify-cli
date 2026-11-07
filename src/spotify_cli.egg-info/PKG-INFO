@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: spotify-cli
+Version: 0.1.0
+Summary: CLI que permite acceder a servicios de Spotify
+Requires-Dist: typer
